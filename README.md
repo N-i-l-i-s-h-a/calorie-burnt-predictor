@@ -9,7 +9,7 @@ This project is a web application that predicts calories burned during a workout
 Follow these steps to set up and run the application on your local machine.
 
 1.  **Clone the Repository**
-    Navigate to the application directory after cloning.https://github.com/N-i-l-i-s-h-a/calorie-burnt-predictor.git
+    Navigate to the application directory after cloning.
     ```bash
     git clone https://github.com/N-i-l-i-s-h-a/calorie-burnt-predictor.git
     cd calories-burnt-project/calorie-predictor-app
